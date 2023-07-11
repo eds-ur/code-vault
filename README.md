@@ -9,3 +9,5 @@ Unlock the secrets of this code haven and let your imagination run wild as you e
 So gather your coding companions and delve into the enchanting world of CodeVault, where curiosity reigns and brilliance is unlocked, one line of code at a time. 
 
 Welcome to the repository where legends are written and codes are forever preserved. Open the gates, and let the coding adventure begin!
+
+Brought to you by the Educational Data Science team at the University of Regensburg. 
